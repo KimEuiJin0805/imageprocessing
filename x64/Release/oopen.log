@@ -1,0 +1,8 @@
+﻿  oopen.cpp
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\KIM\source\repos\oopen\oopen.cpp(35): warning C4715: 'uc_alloc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\KIM\source\repos\oopen\oopen.cpp(100): error C4703: 초기화되지 않았을 수 있는 로컬 포인터 변수 'img'이(가) 사용되었습니다.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: 코드를 생성하지 못했습니다.
